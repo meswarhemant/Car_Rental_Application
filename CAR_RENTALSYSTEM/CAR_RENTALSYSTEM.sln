@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CAR_RENTALSYSTEM", "CAR_RENTALSYSTEM.csproj", "{A06BA5F7-4F1F-44B5-ADEC-B327D2FDF86B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{95F118B9-E9B9-4818-B6BD-7C560ACBBDF2}"
+	ProjectSection(SolutionItems) = preProject
+		DataBaseControl.cs = DataBaseControl.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A06BA5F7-4F1F-44B5-ADEC-B327D2FDF86B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A06BA5F7-4F1F-44B5-ADEC-B327D2FDF86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A06BA5F7-4F1F-44B5-ADEC-B327D2FDF86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A06BA5F7-4F1F-44B5-ADEC-B327D2FDF86B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B46EE0E-2A66-4858-9756-2722B6518D52}
+	EndGlobalSection
+EndGlobal
